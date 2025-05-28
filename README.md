@@ -104,7 +104,7 @@ L'application sera accessible sur `http://localhost:3000`
 ```
 famalink-mvp/
 ├── app/                          # App Router (Next.js 14)
-│   ├── (auth)/                   # Pages d'authentification
+│   ├── auth/                   # Pages d'authentification
 │   │   ├── login/
 │   │   └── register/
 │   ├── dashboard/               # Interface médecin
